@@ -1,0 +1,2 @@
+- Cần được đánh dấu
+- Khai báo kiểu dữ liệu hoặc không, Hệ thống kiểu dữ liệu linh hoạt
