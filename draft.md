@@ -2,3 +2,5 @@
 - [Localization](https://github.com/Raku-L10N)
 - [Wikipedia](https://en.wikipedia.org/wiki/Raku_(programming_language))
 - [Learn Raku in Y Minutes](https://learnxinyminutes.com/raku/)
+- [Raku documentation](https://docs.raku.org/)
+- [Raku Guide](https://raku.guide/)
