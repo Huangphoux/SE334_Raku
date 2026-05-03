@@ -5,7 +5,7 @@
   doc-category: "Các phương pháp lập trình - SE334.Q21",
   doc-title: "Báo cáo chuyên sâu về ngôn ngữ lập trình Raku",
   author: "23521224 Trương Hoàng Phúc
-23520175 Chang Chien Cheng",
+23520535 Nguyễn Văn Hoàng",
   language: "vi",
   compact-mode: false,
   it,
@@ -19,12 +19,12 @@
 = Tóm tắt (Hoàng)
 #include "0_tom-tat.typ"
 
-= Phần giới thiệu (Cheng)
+= Phần giới thiệu (Phúc)
 #include "1_gioi-thieu.typ"
 Điểm khác biệt giữa Raku, Rakudo và Perl 6
 
 = Nội dung phân tích chuyên sâu
-== Đa mô hình lập trình (Cheng)
+== Đa mô hình lập trình (Hoàng)
 #include "2_da-mo-hinh.typ"
 
 == Bản địa hoá và Quốc tế hoá (Phúc)
