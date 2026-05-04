@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.f95": "fortran",
+        "*.f90": "fortran",
+        "*.f03": "fortran"
+    },
+    "fortran.linter.includePaths": [
+        "${workspaceFolder}/**"
+    ],
+    "fortran.linter.enabled": true,
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true
+}

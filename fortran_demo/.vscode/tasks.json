@@ -1,0 +1,32 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build fortran",
+            "type": "shell",
+            "command": "gfortran",
+            "args": [
+                "-c", "my_module.f95",
+                "-c", "input_output.f95", 
+                "-c", "basic_operations.f95",
+                "-c", "array_string.f95",
+                "-c", "control_flow.f95",
+                "-c", "tail_recursion.f95",
+                "-c", "main.f95",
+                "-o", "fortran_demo", "*.o"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "run fortran",
+            "type": "shell",
+            "command": "./fortran_demo",
+            "group": "test",
+            "dependsOn": ["build fortran"]
+        }
+    ]
+}
