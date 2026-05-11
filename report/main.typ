@@ -21,7 +21,6 @@
 
 = Phần giới thiệu (Phúc)
 #include "1_gioi-thieu.typ"
-Điểm khác biệt giữa Raku, Rakudo và Perl 6
 
 = Nội dung phân tích chuyên sâu
 == Đa mô hình lập trình (Hoàng)
