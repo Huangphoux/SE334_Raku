@@ -16,9 +16,6 @@
 #show heading: set block(above: 1.4em, below: 1em)
 #show raw: set text(font: "JetBrains Mono")
 
-= Tóm tắt (Hoàng)
-#include "0_tom-tat.typ"
-
 = Phần giới thiệu (Phúc)
 #include "1_gioi-thieu.typ"
 
@@ -31,6 +28,21 @@
 
 == Biến (Phúc)
 #include "4_bien.typ"
+
+== Vòng lặp và câu điều kiện (Phúc)
+#include "6_lap_dieu-kien.typ"
+
+== Nhập xuất dữ liệu (Phúc)
+#include "7_nhap-xuat.typ"
+
+== Hàm (Phúc)
+#include "8_ham.typ"
+
+== Lập trình bằng hàm (Phúc)
+#include "9_lap-trinh-ham.typ"
+
+== Lập trình hướng đối tượng (Phúc)
+#include "10_oop.typ"
 
 = Kết luận (Hoàng)
 #include "5_ket-luan.typ"
