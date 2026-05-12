@@ -1,3 +1,5 @@
+#image("Camelia.svg.png", height: 30%)
+
 Raku là một ngôn ngữ lập trình thuộc họ ngôn ngữ Perl. Raku trước đây từng được đặt tên là Perl 6, vì ban đầu Raku là bản cập nhật thứ 6 của ngôn ngữ Perl, nhưng sau này phải đổi tên vì trình biên dịch của Perl 6 không thể biên dịch được mã nguồn được viết bằng các phiên bản trước của Perl. Từ đó, Perl 6 rẽ nhánh sang thành một dự án riêng và được đổi tên thành Raku.
 
 Raku hỗ trợ đa kiểu lập trình, như lập trình hướng đối tượng, lập trình bằng hàm, lập trình tường thuật, và lập trình theo thủ tục. Các biến dù được khai báo kiểu dữ liệu hay không vẫn có thể hoạt động trong các hàm yêu cầu kiểu dữ liệu cụ thể.

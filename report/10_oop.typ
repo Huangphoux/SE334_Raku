@@ -63,7 +63,7 @@ class combo-chart is bar-chart is line-chart {
 }
 ```
 
-Role trong Raku tương đương như lớp, nhưng khi một role kết hợp nhiều role khác và có một phương thức được định nghĩa khác nhau trong các role, trình biên dịch sẽ báo lỗi thay vì xử lí âm thầm như kế thừa nhiều lớp.
+Role trong Raku tương đương như lớp, nhưng khi một lớp kết hợp nhiều role khác và có một phương thức được định nghĩa khác nhau trong các role, trình biên dịch sẽ báo lỗi thay vì xử lí âm thầm như kế thừa nhiều lớp.
 
 ```perl
 role bar-chart {
