@@ -53,7 +53,7 @@ nếu $số <= 10 {
 = Vòng lặp & Điều kiện
 - `if`/`elsif`/`else`
 - `unless` thay vì `if not`
-- `with`: kiểm tra giá trị
+- `with`: kiểm tra biến có giá trị không
 - `without` thay vì `with not`
 - `given`/`when`/`default`: cú pháp switch
 - Range: `when 0..50`
